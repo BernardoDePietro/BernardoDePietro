@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> Introduction </h2>
-  <p>Hello everybody. I'm graduated in Computer Science at UNIME. Soon I will be a student of the Master in Engineering and Computer Science.<p>
+  <p>Hello everybody. I'm graduated in Computer Science at UniMe. Soon I will be a student of the Master in Engineering and Computer Science.<p>
 <h2> Social </h2>
     <a href="https://www.linkedin.com/in/bernardo-de-pietro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   
