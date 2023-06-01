@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <h2> Introduction </h2>
-  <p>Hello everybody. I'm graduated in Computer Science at UniMe. Soon I will be a student of the Master in Engineering and Computer Science.<p>
+  <p>Hello everybody. I'm graduated in Computer Science at UniMe.\m
+  After university, I have worked as Data Engineer at Capgemini Italia. In this period, I'm grow with different technologies, in particular I have used Microsoft Data Factory to develop ETL pipepile for data ingestion.\n
+Actually, I work at Kineton as Full Stack Developer.<p>
 <h2> Social </h2>
     <a href="https://www.linkedin.com/in/bernardo-de-pietro/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   
