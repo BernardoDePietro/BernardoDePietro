@@ -36,7 +36,6 @@ Actually, I work at Kineton as Full Stack Developer.<p>
     <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white">
   <h2> Frameworks </h2>
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white">
-    <img src="https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=react&logoColor=white">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <h2> Operating Systems </h2>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
